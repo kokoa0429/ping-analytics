@@ -1,0 +1,27 @@
+{
+  "name": "ping-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokoa0429/ping-analytics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokoa0429/ping-analytics/issues"
+  },
+  "homepage": "https://github.com/kokoa0429/ping-analytics#readme",
+  "devDependencies": {
+    "electron": "^11.2.2"
+  },
+  "dependencies": {
+    "apexcharts": "^3.24.0",
+    "ping": "^0.4.0",
+    "vue-apexcharts": "^1.6.0"
+  }
+}
